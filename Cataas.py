@@ -6,7 +6,7 @@ from tkinter import Toplevel
 from tkinter import ttk
 
 
-Allowed_tags = ["sleep", "jump", "fight", "black", "white", "siames", "cute", "play"]
+Allowed_tags = ["sleep", "jump", "fight", "black", "white", "siamese", "cute", "play"]
 
 def load_image(url):
     try:
